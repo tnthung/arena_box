@@ -1,0 +1,10 @@
+[package]
+name        = "arena_box"
+version     = "0.0.0"
+edition     = "2021"
+license     = "MIT"
+keywords    = ["arena", "box", "memory", "allocation", "pool"]
+repository  = "https://github.com/tnthung/arena_box"
+description = "A simple arena box for memory allocation."
+
+[dependencies]
